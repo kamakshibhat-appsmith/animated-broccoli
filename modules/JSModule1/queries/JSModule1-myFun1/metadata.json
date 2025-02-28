@@ -10,7 +10,7 @@
       "jsArguments": [
         {
           "name": "limit",
-          "value": "{{1}}"
+          "value": "{{12}}"
         }
       ],
       "paginationType": "NONE",

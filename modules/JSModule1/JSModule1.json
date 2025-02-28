@@ -8,17 +8,17 @@
         "children": [
           {
             "controlType": "INPUT_TEXT",
+            "defaultValue": "[\"{{12}}\"]",
+            "id": "gjlzczcnoz",
+            "label": "myFun1",
+            "propertyName": "inputs.myFun1"
+          },
+          {
+            "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
             "id": "aypbrbflge",
             "label": "myFun2",
             "propertyName": "inputs.myFun2"
-          },
-          {
-            "controlType": "INPUT_TEXT",
-            "defaultValue": "[\"{{1}}\"]",
-            "id": "gjlzczcnoz",
-            "label": "myFun1",
-            "propertyName": "inputs.myFun1"
           }
         ],
         "id": "kkjbnnxjjc",

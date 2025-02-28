@@ -18,7 +18,6 @@
         "propertyName": "inputs.limit"
       }
     },
-    "name": "QueryModule1",
-    "version": "0.0.2"
+    "name": "QueryModule1"
   }
 }
