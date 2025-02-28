@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67ac50df9789034bb4628393_67286df0-f606-422e-a2fe-53bfe8535d57",
+  "moduleUUID": "00fe49c5-5789-455b-8b1f-78eb9cc86603",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "2",
+            "id": "swazcihpeb",
+            "label": "limit",
+            "propertyName": "inputs.limit"
+          }
+        ],
+        "id": "qssmexloaz",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}

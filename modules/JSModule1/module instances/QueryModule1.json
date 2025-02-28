@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "67ac50df9789034bb4628393_a8b05265-731a-42a5-bce1-30f010a6714c",
+  "id": "JSModule1_QueryModule1",
+  "moduleUUID": "00fe49c5-5789-455b-8b1f-78eb9cc86603",
+  "packageUUID": "2a44375c-7554-4090-83c3-b3414af3c9cf",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {
+      "limit": ""
+    },
+    "moduleInputs": {
+      "swazcihpeb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "swazcihpeb",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
+    "name": "QueryModule1",
+    "version": "0.0.2"
+  }
+}
