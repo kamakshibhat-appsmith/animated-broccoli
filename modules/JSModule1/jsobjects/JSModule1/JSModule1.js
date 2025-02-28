@@ -10,5 +10,6 @@ export default {
 			//	use async-await or promises
 			//	await storeValue('varName', 'hello world')
 		return QueryModule1.run({ limit: "2" })
+	
 	}
 }
