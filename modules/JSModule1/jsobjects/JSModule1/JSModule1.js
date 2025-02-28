@@ -1,5 +1,5 @@
 export default {
-	myVar1: [],
+	myVar1: [1,2,3],
 	myVar2: {},
 	myFun1 (limit=12) {
 		//	write code here

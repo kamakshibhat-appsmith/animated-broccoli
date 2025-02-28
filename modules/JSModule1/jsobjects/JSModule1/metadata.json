@@ -11,7 +11,7 @@
     "variables": [
       {
         "name": "myVar1",
-        "value": "[]"
+        "value": "[1, 2, 3]"
       },
       {
         "name": "myVar2",
