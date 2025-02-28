@@ -20,7 +20,7 @@
       },
       "gjlzczcnoz": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "[\"{{12}}\"]",
+        "defaultValue": "[\"{{112}}\"]",
         "id": "gjlzczcnoz",
         "label": "myFun1",
         "propertyName": "inputs.myFun1"

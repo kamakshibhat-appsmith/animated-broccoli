@@ -1,7 +1,7 @@
 export default {
 	myVar1: [1,2,3],
 	myVar2: {},
-	myFun1 (limit=12) {
+	myFun1 (limit=112) {
 		//	write code here
 		//	this.myVar1 = [1,2,3]
 		return QueryModule1.run({limit})
