@@ -10,6 +10,7 @@
       "myFun1": "[\"{{12}}\"]",
       "myFun2": "[]"
     },
+    "moduleId": "JSModule2",
     "moduleInputs": {
       "aypbrbflge": {
         "controlType": "INPUT_TEXT",

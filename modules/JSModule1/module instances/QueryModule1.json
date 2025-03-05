@@ -9,6 +9,7 @@
     "inputs": {
       "limit": ""
     },
+    "moduleId": "JSModule1",
     "moduleInputs": {
       "swazcihpeb": {
         "controlType": "INPUT_TEXT",
